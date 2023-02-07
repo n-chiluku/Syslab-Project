@@ -1,0 +1,5 @@
+"Hello," Bob said.
+"How are you?" Sally asked.
+"Good," Bob replied.
+They stood for a moment.
+"I'm fine," Sally added.
